@@ -1,0 +1,54 @@
+0,CombatZoneResize,241,226,406,391,
+0,HeartTeleport,320,304,,,
+0,HeartMode,0,,,,
+0,,,,,,
+0,,,,,,
+0,,,,,,
+0,,,,,,
+0,,,,,,
+0,,,,,,
+0,,,,,,
+0,,,,,,
+0.5,The World,,,,,,,
+1,BoneStab,1,45,0.8888,99.8888,,,,
+0,BoneStab,2,33,0.8888,99.8888,,,,
+0,BoneStab,0,33,0.8888,99.8888,,,,
+1,SansBody,HandDown,,,,,
+0,SansSlam,1,,,,,,
+0.5,SansAnimation,Idle,,,,,,
+0,Platform,151,336,41,0,95,1,,
+1.3,Sound,gastertale1,,,,,,
+2.1,The World Off,,,,,,,
+0.5,Zakeya Red Eyes Dizzy,354,40,,,,,,,,,
+0,Zakeya Red Eyes Dizzy,354,40,,,,,,,,,
+1,GBBoneVV2,323,307,170,323,307,1,0,0,0,15,-4.7,0,2
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+0.5,GetHeartPos,HX,HY,
+1,GasterBlaster,1,$HX,-30,$HX,100,90,1.266666
+3,EndAttack,,,,,
+

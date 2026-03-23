@@ -1,0 +1,19 @@
+0,CombatZoneResize,113,231,548,391,,,,
+0,HeartTeleport,320,304,,,,,,
+0,HeartMode,0,,,,,,
+0,,,,,,,
+0,,,,,,,
+0,,,,,,,
+1,SansBody,HandDown,,,,,,
+0,SansSlam,1,,,,,,,
+0.2,SansAnimation,Idle
+1.5,BoneVVRepeat,556,376,55,180,115,0,0,-40,0,15,150
+0,BoneVVRepeat,91,261,200,0,115,0,0,40,0,15,150
+0.5,Sound,Time Move,,,,
+0.5,The World Off,,,,,,,
+0.4,SansAnimation,Idle
+0,SET,GADY,8,,,,,
+0,SUB,GADY,$GADY,1,,,,,,,
+0,GasterBlaster,2,504,0,504,304,180,0.6,0.26666
+2.4,JMPNZ,16,$GADY,,,,,,
+2.4,EndAttack,,,,,,,,

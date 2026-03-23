@@ -1,0 +1,46 @@
+0,Cosmetics,Music
+0,SansHead,ClosedEyes
+0,CombatZoneResize,241,226,406,391,TLResume,,,
+0,HeartTeleport,323,308,,,,,,
+0,HeartMode,0
+2,SansHead,Tired1
+0,SansText,huh?,
+0,SansHead,LookLeft
+0,SansText,try this attack,
+0,SansHead,Wink
+0,SansText,then if you survive.,,
+0,SansHead,ClosedEyes
+0,SansText,your end has come...,,
+1,BlackScreen,1,,,,,,,
+0,Sound,Flash,,,,,,,
+1.06666,BlackScreen,0,,,,,,,
+0,Sound,Flash,,,,,,,
+0,SansHead,NoEyes
+0,SansText,you bought yourself a ticket to hell.,,,
+0,SET,gt,0,,,,,,
+0,SET,gin,1,,,,,,
+0,Set,timer,8,
+0,MUL,Ang,$gt,-10,,,,,
+0,COS,X,$Ang,,,,,,
+0,SIN,Y,$Ang,,,,,,
+0,MUL,EndX,$X,150,,,,,
+0,MUL,EndY,$Y,150,,,,,
+0,MUL,X,$EndX,3,,,,,
+0,MUL,Y,$EndY,3,,,,,
+0,ADD,X,$X,320,,,,,
+0,ADD,Y,$Y,306,,,,,
+0,ADD,EndX,$EndX,320,,,,,
+0,ADD,EndY,$EndY,306,,,,,
+0,ADD,Ang,$Ang,180,,,,,
+0,GasterBlaster,0,$X,$Y,$EndX,$EndY,$Ang,$timer,2.5
+0,Sub,timer,$timer,0.06666
+0,ADD,gt,$gt,$gin,,,,,
+0.04444,JMPL,23,$gt,36,,,,,
+0.5,gasterblaster,2,0,0,60,60,56,5,2
+0.1,gasterblaster,2,0,0,50,150,58,4.9,2
+0.1,gasterblaster,2,0,0,150,50,51,4.8,2
+0.5,gasterblaster,2,640,0,580,60,140,4.3,2
+0,bonestab,1,152.5,5,3
+0.1,gasterblaster,2,640,0,590,150,150,4.2,2
+0.1,gasterblaster,2,640,0,490,50,130,4.1,2
+0.3,SansTorso,Shrug

@@ -1,0 +1,17 @@
+0,CombatZoneResizeInstant,239,226,404,391,,,,
+0,HeartTeleport,320,304,,,,,,
+0,HeartMode,0,,,,,,
+0,Sound,Ding,1,,
+1,Sound,GasterBlaster,1.4
+0,BoneStab,1,25,0.333,99.333,,,,
+0,BoneStab,0,25,0.333,99.333,,,,
+0,BoneStab,2,25,0.333,99.333,,,,
+0,BoneStab,3,25,0.333,99.333,,,,
+1.5,GasterBlaster3,1,139,0,150,304,0,1,20,2,2,0,810,10,2,225,1,2
+0,GasterBlaster3,1,504,0,504,304,180,1,20,1,2,0,810,10,2,225,1,2
+
+0.5,BoneVVRepeat,556,376,120,180,130,0,0,0,0,50,180
+0,BoneVVRepeat,91,261,80,0,130,0,0,0,0,50,180
+14,BlasterZA,2,30
+4,SansShake,30,,,,,,
+5,EndAttack,,,,,,
